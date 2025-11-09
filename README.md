@@ -57,7 +57,7 @@ venv\Scripts\activate
 ### 📦 Installer les dépendances
 
 ```bash
-pip install -r requirements.txt
+ pip install opencv-python mediapipe streamlit numpy
 ```
 
 > Si le fichier `alert.wav` n’est pas présent, générez-le :
