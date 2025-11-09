@@ -39,7 +39,7 @@ Application web en temps réel permettant de détecter la somnolence du conducte
 ### 📥 Cloner le dépôt
 
 ```bash
-git clone https://github.com/rayen179/detection_yeux
+git clone https://github.com/BahaeddineKlai/drowsiness-detector.git
 cd VOTRE-REPO
 ```
 
