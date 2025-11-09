@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+.venv/
+venv/
+venv311/
+ENV/
+env/
+
+# IDE / Editor files
+.idea/
+.vscode/
+
+# Replit
+.replit
+replit.md
+uv.lock
+
+# Streamlit
+
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Audio output / generated files
+alert.wav
+
+# Cache / Temporary files
+*.tmp
+*.swp
+*.swo
+Lib/
